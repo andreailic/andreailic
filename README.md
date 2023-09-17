@@ -1,5 +1,7 @@
 ### Hi there 👋
+📚 Faculty of technical sciences, University of Novi Sad
 
+🧑‍🎓 IT student
 <!--
 **andreailic/andreailic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
