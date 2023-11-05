@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 🧑‍🎓 Graduated engineer of information technologies at the Faculty of Technical Sciences of the University of Novi Sad
+
+
 📚 Master's student of information systems studies at the Faculty of Organizational Sciences of the University of Belgrade
 
 <!--
